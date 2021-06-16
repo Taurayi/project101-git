@@ -1,0 +1,9 @@
+{
+	"name": "project100-dev-adf",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f8c79121-6642-419e-bf63-7b9410e9544d",
+		"tenantId": "c81bfbfb-3d2e-445d-9d8e-9c397ccb181d"
+	}
+}
